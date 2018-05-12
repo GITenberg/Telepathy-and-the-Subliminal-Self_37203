@@ -1,0 +1,34 @@
+_repo: Telepathy-and-the-Subliminal-Self_37203
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37203-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mason, R. Osgood (Rufus Osgood)
+    alias: Mason, Rufus Osgood
+    birthdate: 1830
+    deathdate: 1903
+    gutenberg_agent_id: '38704'
+    url: http://www.gutenberg.org/2009/agents/38704
+description: ''
+gutenberg_issued: '2011-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37203'
+  lccn: '03010771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Telepathy'
+- !lcsh 'Parapsychology -- Investigation'
+- !lcc 'BF'
+tableOfContents: 'Psychical research: telepathy or thought-transference -- Mesmerism
+  and hypnotism: history and therapeutic effects -- Hypnotism: psychical aspect --
+  Lucidity or clairvoyance -- Double or multiplex personality -- Natural somnambulism;
+  hypnotic somnambulism; dreams -- Automatism; planchette -- Automatic writing, drawing
+  and painting -- Crystal-gazing -- Phantasms -- Phantasms, continued -- Conclusions.'
+title: Telepathy and the Subliminal Self
+url: http://www.gutenberg.org/ebooks/37203
